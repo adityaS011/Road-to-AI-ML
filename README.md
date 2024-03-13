@@ -1,6 +1,6 @@
 # Road-to-AI-ML
 Will be covering AI/ML syllabus , Step by Step from Python to Advance Neural Network 
-### Try to Dedicate atleast 6 hours a day  for this roadmap
+### According to 6-8 hrs a day (For 3-4 hrs Divide each day by 2 )
 
 
 ## Week 0: Python Basics and OOP
